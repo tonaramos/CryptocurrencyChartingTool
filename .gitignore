@@ -1,3 +1,12 @@
+## Mac OS
+.DS_store
+##nom jspm_packages
+
+##webpack default output folder
+public/
+
+
+
 # Logs
 logs
 *.log
